@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2023-09-03 22:00:00 -0700
+categories: jekyll update
+---
+This blog will be released around 10PM PST on Sunday, September 3rd.
