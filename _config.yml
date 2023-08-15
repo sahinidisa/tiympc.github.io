@@ -20,7 +20,7 @@
 
 future: true
 timezone: America/Los_Angeles
-title: Alex's Blog
+title: Alex Sahinidis's Blog
 email: asahinid@alumni.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   © 2023
