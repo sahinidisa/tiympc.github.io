@@ -22,7 +22,7 @@ future: true
 title: Alex's Blog
 email: asahinid@alumni.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my new discription!
+  © 2023
 domain: "asahinidis.github.io"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://asahinidis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
