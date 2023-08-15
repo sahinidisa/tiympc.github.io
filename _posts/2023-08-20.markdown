@@ -4,6 +4,6 @@ title:  "Welcome to Jekyll!"
 date:   2023-08-20 22:00:00 -0700
 categories: jekyll update
 published: true
-future: false
+future: true
 ---
 This blog will be released around 10PM PST on Sunday, August 20th.
