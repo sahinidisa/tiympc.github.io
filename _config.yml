@@ -21,6 +21,7 @@
 future: true
 title: tiympc
 subtitle: Alex Sahinidis
+footer-heading: Alex Sahinidis
 timezone: America/Los_Angeles
 email: asahinid@alumni.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
