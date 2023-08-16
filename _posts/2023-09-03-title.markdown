@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I automated my printer to give me reports for the stock market on every trading day"
+title:  "How I used AWS to automate printing reports of the stock market on every trading day"
 date:   2023-09-03 22:00:00 -0700
 categories: jekyll update
 ---
