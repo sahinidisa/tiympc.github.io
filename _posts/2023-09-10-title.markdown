@@ -3,5 +3,6 @@ layout: post
 title:  "Your use of AWS can help you automate printed reports of the stock market on every trading day"
 date:   2023-09-10 22:00:00 -0700
 categories: jekyll update
+published: false
 ---
 This blog will be released around 10PM PST on Sunday, September 10th.
