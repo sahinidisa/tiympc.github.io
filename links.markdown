@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-permalink: /about/
+permalink: /links/
 ---
 
 Cool links:
