@@ -4,9 +4,7 @@ title:  "Time to write a blog."
 date:   2023-08-27 22:00:00 -0700
 categories: jekyll update
 ---
-*This blog will be released around 10PM PST on Sunday, August 27th.*
-
-"**The only true wisdom is in knowing you know nothing.**" - Socrates
+"*The only true wisdom is in knowing you know nothing.*" - Socrates
 
 I've been procastinating on this post: I'm unsure on what this blog is or what it will be. Bear with me as we witness the randomness of life and the ensuing knowledge that unfolds. As time ticks, we will scour and sift through various subjects in a patient quest to seek the revolutionary secrets of the universe we live in. I hope that you find meaning in the works ahead.
 
