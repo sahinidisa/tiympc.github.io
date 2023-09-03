@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links of the Day
-permalink: /linksoftheday/
+permalink: /links/
 ---
 - [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
     - Fri Sep 1, 2023
