@@ -5,7 +5,7 @@ permalink: /books/
 ---
 ### Mouth to Mouth by Antoine Wilson
 
-![Mouth to Mouth](/_site/assets/images/mouth-to-mouth.jpg){:width="300" height="500"}
+![Mouth to Mouth](./_site/assets/images/mouth-to-mouth.jpg){:width="300" height="500"}
 
 "Sly, suspensful, and engrossing, *Mouth to Mouth* masterfully blurs the line between opportunity and exploitation, self-resepect and self-delusion, fact and fiction -- exposing the myriad ways we decieve one another, and ourselves."
 
@@ -14,6 +14,6 @@ permalink: /books/
 
 ### Dinosaurs by Lydia Millet
 
-![Dinosaurs](/_site/assets/images/dinosaurs.jpg){:width="300" height="500"}
+![Dinosaurs](./_site/assets/images/dinosaurs.jpg){:width="300" height="500"}
 
 "Millet explores the uncanny terrirtory where he self ends and community begins -- what one person can do in a world beset by emergencies. In the sadow of exisetntial threat, where does hope live?"
