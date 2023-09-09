@@ -16,6 +16,7 @@ permalink: /books/
 
 ![Dinosaurs](/images/dinosaurs.jpg){:width="150" height="250"}
 
-"Millet explores the uncanny terrirtory where he self ends and community begins -- what one person can do in a world beset by emergencies. In the sadow of exisetntial threat, where does hope live?"
+"Millet explores the uncanny territory where the self ends and community begins -― what one person can do in a world beset by emergencies.
 
+Dinosaurs is both sharp-edged and tender, an emotionally moving, intellectually resonant novel that asks: In the shadow of existential threat, where does hope live?"
 
