@@ -3,6 +3,8 @@ layout: page
 title: Links of the Day
 permalink: /links/
 ---
+- [How to Do Great Work by Paul Graham](http://paulgraham.com/greatwork.html)
+    - Thurs Sep 14, 2023
 - [Freudian slip](https://en.wikipedia.org/wiki/Freudian_slip)
     - Wed Sep 6, 2023
 - [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
