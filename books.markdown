@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Favorite Books
+title: Books
 permalink: /books/
 ---
 ### Mouth to Mouth by Antoine Wilson
