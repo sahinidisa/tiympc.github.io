@@ -45,7 +45,7 @@ Date: February 26, 2022
 Description: *to be filled in*
 
 
-![New York, New York (Times Square)](/images/times-square.jpg)
+![New York, New York (Times Square)](/images/times-square-amc.jpg)
 📍 New York, New York (Times Square)
 
 Date: July 9, 2021
@@ -61,7 +61,7 @@ Date: July 9, 2021
 Description: *to be filled in*
 
 
-![Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)][/images/railroad-dont-panic.jpg]
+![Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)](/images/railroad.jpg)
 📍Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)
 
 Date: Saturday March 20, 2021
