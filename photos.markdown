@@ -53,7 +53,7 @@ Date: July 9, 2021
 Description: *to be filled in*
 
 
-![New York, New York (Manhattan)](/images/manhattan.jpg)
+![New York, New York (Manhattan)](/images/man-new-york.jpg)
 📍 New York, New York (Garment District)
 
 Date: July 9, 2021
