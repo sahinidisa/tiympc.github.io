@@ -3,33 +3,6 @@ layout: page
 title: Roadtrips
 permalink: /roadtrips/
 ---
-### San Francisco, CA to Los Angeles, CA (7 hours each way)
-Via Interstate 5 (to Los Angeles)
-Via CA Highway 1 (to San Francisco)
+Coming soon!
 
-Interstate 5 is a cathartic drive for those looking to escape the typical Californian scenery. Highway 1, on the other hand, is what a non-Californian native would expect when imagining in their minds the typical drive through California and, therefore, cannot be avoided in your California intrastate roadtrip plans.
-
-With Highway 1, you are given the option of stopping at small towns that offer a certain quaintness that is unmatched in Los Angeles or the San Francisco Bay Area. Personally, I did Topang, Ventura, Santa Barbara, Solvang, and Morro Bay. Of these, I would highly recommend Topang and Solvang.
-
-Driving from Los Angeles to Topang in the early hours of a Sunday morning felt solitary, enchanting, and rugged at the same time. In order to arrive at Topanga, I had to exit through CA Highway 27, a misty, rocky, hilly, and winding road that led to the small town with less than 10,000 inhabitants. I stopped for some coffee and breakfast, and admittedly watched football for two hours while working on the *tiympc* blog.
-
-![Topanga Living Cafe](/images/topanga-living-cafe.jpg)
-
-When I was about 30 minutes from Solvang, a Danish-style town tucked away between the Santa Ynez and San Rafael mountains, I spontaneously stopped at Cachuma Lake Vista Point. I had no idea of my location at the time but impulsively paused my roadtrip plans by parking my car on this beautiful cliff.
-
-![Cachuma Lake Vista Point](/images/cachuma.jpg)
-
-I knew that I needed to take in this view, and to share it with my father, who I FaceTimed immediatelly after I parked. He said that we will visit this spot together some day, and I really hope we do. He had a gigantic smile on his face. Although my father and I had trouble being honest about our feelings with each other, I could tell that he was happy for me. I have never told him, but he is the man I aspire to be. If I can only have a fraction of his character, I know that my future children will be great human beings. I will definitely be back at this vista point, and I will definitely bring my fishing rod and father here.
-
-When I arrived at Solvang, I decided to use my camera to find anything worth photographing. I like studying different architecture and knew this Danish-style town was the place to see something different than I'm used to in California. But, after a few minutes of walking through the towncenter, I abandoned my goal of a Solvang photoshoot. Instead, I decided to take it all in and live in the moment, something I have recently gotten better at.
-
-This particular memory that I am about to describe will stay with me forever. I had just left Solvang and was about 10 minutes out of the town. This particular memory is one of regret and natural beauty. I don't like talking about or thinking about regrets, but this one was hard to run away from. I'm driving along a peaceful road. Symmetrical rows of tall, majestic western sycamore trees stand sentinel on either side. Their lush green leaves form a dense canopy overhead, filtering out the soft afternoon sunlight coming from the west into dappled patterns hitting the road ahead and my face. I am still driving at this point, so I don't have too much time to observe my surroundings. However, I glance to my left and am immediatelly in awe of what I saw. My memory will never forget this image. Standing 20 meters perpendicular from my moving car was a gathering of chestnut horses, their heads bowed, delicately picking the wet, swampy grass underneath them. A dark brown fence stood in the way between the horses and the road. Past the horses were the mountains of Santa Ynez, with a slight misty fog present between the mountains and the brown horses. Sometimes - and I'm certain you've seen this happen before - angled sunlight hits the earth in such a way that the air around us comes alive and has a slight golden tinge to it, creating a magical atmosphere. Tiny, glistering particles, albeit invisible in the shadows, are now revealed by the sun's touch and seem to materialize in the sunlight. For a split second, I was convinved to pull off to the side of the road, cross the road camera in hand, and photograph this majestic scene. But I didn't. I kept driving. And 20 minutes later, I regretfully thought about turning back. If I had to replace all the photos I have taken so far with a single photo from this scene, I would do it. A week after returning back to San Francisco, I still think about what a photo of this scene would look like. I have a very vivid memory and can imagine exactly what could have been. But, we mustn't linger on these feelings forever. We have to learn to let go and take advantage of the next great opportunity we're given. I believe that a well-lived life consists of one where great opportunities are acted upon, whether in the context of business, love, friendship, finances, or whatever is relevant to you and your life. The younger we are, the less we understand free will. Google defines *free will* as: the power of acting without the constraint of necessity or fate; the ability to act at one's own discretion. 
-
-taking risks in life, nothing really matters too much. 
-
-Each and every one of the stops in Highway 1 will have something to do and look at, especially if you are yearning for scenic views of the Pacific Ocean.
-
-I would recommend to try Highway 1 at least once, but if you are anything like me, Interstate 5 is the way to go (you also tend to shave off at least one hour of drive time). While Highway 1 has tremendous views, Interstate 5 is more subtle. Therefore, you are more able to focus on the drive itself and to think about whatever thoughts are on your mind. It is less entertaining and more prone to reflection, something I and probably many others do while driving. Regardless, the sunset while driving down Interstate 5 surpassed any experience driving up Highway 1.
-
-### San Francisco, CA to Bodega Bay, CA (1.5 hours each way)
-Via U.S. Highway 101
+*Check back in mid-October*
