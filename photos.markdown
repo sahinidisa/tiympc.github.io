@@ -61,7 +61,7 @@ Date: July 9, 2021
 Description: *to be filled in*
 
 
-![Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)](/images/railroad-dont-panic.jpg)
+![Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)][/images/railroad-dont-panic.jpg]
 📍Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)
 
 Date: Saturday March 20, 2021
