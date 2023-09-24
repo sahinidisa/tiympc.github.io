@@ -13,11 +13,11 @@ With Highway 1, you are given the option of stopping at small towns that offer a
 
 Driving from Los Angeles to Topang in the early hours of a Sunday morning felt solitary, enchanting, and rugged at the same time. In order to arrive at Topanga, I had to exit through CA Highway 27, a misty, rocky, hilly, and winding road that led to the small town with less than 10,000 inhabitants. I stopped for some coffee and breakfast, and admittedly watched football for two hours while working on the *tiympc* blog.
 
-![Topanga Living Cafe](/images/topanga-living-cafe.jpg){:width="150" height="250"}
+![Topanga Living Cafe](/images/topanga-living-cafe.jpg)
 
 When I was about 30 minutes from Solvang, a Danish-style town tucked away between the Santa Ynez and San Rafael mountains, I spontaneously stopped at Cachuma Lake Vista Point. I had no idea of my location at the time but impulsively paused my roadtrip plans by parking my car on this beautiful cliff.
 
-![Cachuma Lake Vista Point](/images/cachuma.jpg){:width="150" height="250}
+![Cachuma Lake Vista Point](/images/cachuma.jpg)
 
 I knew that I needed to take in this view, and to share it with my father, who I FaceTimed immediatelly after I parked. He said that we will visit this spot together some day, and I really hope we do. He had a gigantic smile on his face. Although my father and I had trouble being honest about our feelings with each other, I could tell that he was happy for me. I have never told him, but he is the man I aspire to be. If I can only have a fraction of his character, I know that my future children will be great human beings. I will definitely be back at this vista point, and I will definitely bring my fishing rod and father here.
 
