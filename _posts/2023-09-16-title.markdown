@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Driving through Interstate 5."
+title:  "IS adventure for everyone?"
 date:   2023-09-16 22:00:00 -0700
 categories: jekyll update
 published: true
