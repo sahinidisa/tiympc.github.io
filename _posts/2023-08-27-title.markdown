@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Time to write a blog"
+title:  "Time to write a blog."
 date:   2023-08-27 22:00:00 -0700
 categories: jekyll update
 ---
