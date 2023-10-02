@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Big journey ahead."
+title:  "Most top of mind for me is a big journey ahead."
 date:   2023-10-01 22:00:00 -0700
 categories: jekyll update
 published: true
