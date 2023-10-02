@@ -5,13 +5,17 @@ date:   2023-09-23 22:00:00 -0700
 categories: jekyll update
 published: true
 ---
-Interstate 5 is a cathartic drive for those looking to escape the typical Californian scenery. Highway 1, on the other hand, is what a non-Californian native would expect when imagining in their minds the typical drive through California and, therefore, cannot be avoided in your California intrastate roadtrip plans.
+Interstate 5 is a cathartic drive for those looking to escape the typical Californian scenery. Highway 1, on the other hand, is what a non-Californian native would expect when imagining the typical drive through California and, therefore, cannot be avoided in your California intrastate roadtrip plans.
 
 I would recommend to try Highway 1 at least once, but if you are anything like me, Interstate 5 is the way to go (you also tend to shave off at least one hour of drive time). While Highway 1 has tremendous views, Interstate 5 is more subtle. You are better able to focus on the drive itself and to think about whatever thoughts are on your mind. It is less entertaining and more prone to reflection, something I do while driving. Regardless, the sunset while driving down Interstate 5 surpassed any experience driving up Highway 1.
 
+<<<<<<< HEAD
 With Highway 1, however, you are given the option of stopping at small towns that offer a certain quaintness that is unmatched in Los Angeles or the San Francisco Bay Area. Personally, I did Topang, Ventura, Santa Barbara, Solvang, and Morro Bay. Of these, I would highly recommend Topang and Solvang.
 
 Driving from Los Angeles to Topang in the early hours of a Sunday morning felt solitary, enchanting, and rugged at the same time. In order to arrive at Topanga, I had to exit through CA Highway 27, a misty, rocky, and winding road that led up to the small town with less than 10,000 inhabitants. I stopped for some coffee and breakfast, and admittedly watched football for two hours while working on this *tiympc* blog.
+=======
+Driving from Los Angeles to Topang in the early hours of a Sunday morning felt energizing, enchantful, and rugged at the same time. In order to arrive at Topanga, I had to exit through CA Highway 27, a misty, rocky, hilly, and winding road that led to the small town with less than 10,000 inhabitants. I stopped for some coffee and breakfast, and admittedly watched football for two hours while working on the *tiympc* blog.
+>>>>>>> 247235f82577d100ab95feab1eaf0e86ccbb4ce6
 
 ![Topanga Living Cafe](/images/topanga-living-cafe.jpg)
 
@@ -19,7 +23,7 @@ When I was about 30 minutes from Solvang, a Danish-style town tucked away betwee
 
 ![Cachuma Lake Vista Point](/images/cachuma.jpg)
 
-I knew that I needed to take in this view, and to share it with my father, who I FaceTimed immediatelly after I parked. He said that we will visit this spot together some day, and I really hope we do. He had a gigantic smile on his face. Although my father and I had trouble being honest about our feelings with each other, I could tell that he was happy for me. I have never told him, but he is the man I aspire to be. If I can only have a fraction of his character, I know that my future children will be great human beings. I will definitely be back at this vista point, and I will definitely bring my fishing rod and father here.
+I knew that I needed to take in this view, and to share it with my father, who I FaceTimed immediately after I parked. He said that we will visit this spot together some day, and I really hope we do. He had a gigantic smile on his face. Although my father and I had trouble being honest about our feelings with each other, I could tell that he was happy for me. I have never told him, but he is the man I aspire to be. If I can only have a fraction of his character, I know that my future children will be great human beings. I will definitely be back at this vista point, and I will definitely bring my fishing rod and father here.
 
 When I arrived at Solvang, I decided to use my camera to find anything worth photographing. I like studying different architecture and knew this Danish-style town was the place to see something different than I'm used to in California. But, after a few minutes of walking through the towncenter, I abandoned my goal of a Solvang photoshoot. Instead, I decided to take it all in and to live in the moment, something I have recently gotten better at.
 
