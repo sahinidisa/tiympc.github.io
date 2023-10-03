@@ -6,7 +6,7 @@ categories: jekyll update
 published: false
 ---
 
-my background as a greek
+my background as a greek while hinting towards my grand point
 
 my father recounting stories about the genocide
 
@@ -15,3 +15,5 @@ history of greek turkish relations
 the march
 
 aftermath
+
+what point i am trying to make (if i hadn't been greek, how would i know about this. what other disturbing pieces of history are there out there that we do not know exist. aka epistemology. how has ethics evolved over time. are we living in a time period where something disturbing is happening around us? how much of the greek genocide is memory versus truth? why did the turks do this? power? or hate? )
