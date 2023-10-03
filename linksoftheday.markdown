@@ -3,7 +3,7 @@ layout: page
 title: Links of the Day
 permalink: /links/
 ---
-"Our knowledge can only be finite, while our ignorance must necessarily be infinite." - Karl Popper
+*"Our knowledge can only be finite, while our ignorance must necessarily be infinite."* - Karl Popper
 
 The more we learn and expand our knowledge, the more we become aware of the vastness of what we still don't know. Hopefully this page serves as a reminder that there is so much out there to learn.
 
