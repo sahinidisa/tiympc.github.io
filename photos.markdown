@@ -58,7 +58,7 @@ permalink: /photos/
 
 **Date**: Fri July 9, 2021
 
-**Description**: A little more grim than my current taste. My photography started off as dark, so it makes sense that I was attracted to this types of scene.
+**Description**: A little more grim than my current taste. However, my photography started off as dark, so it makes sense that I was attracted to this type of scene.
 
 
 ![Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)](/images/railroad.jpg)
