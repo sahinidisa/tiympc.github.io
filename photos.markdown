@@ -8,62 +8,62 @@ permalink: /photos/
 ![San Francisco, California (Baker Beach)](/images/baker-beach-bridge.jpg)
 📍 San Francisco, California (Baker Beach)
 
-Date: Thursday, May 18, 2023
+**Date**: Thursday, May 18, 2023
 
-Description: On the day before my 23rd birthday, I drove up to San Francisco, walked into a coffee shop, spent an hour handwriting a short story about a king, and walked around the city camera in hand... Sometimes you need to let your creativity out and have it do its thing. Oh, and I captured this absolute beauty of a photograph just hours later.
+**Description**: On the day before my 23rd birthday, I drove up to San Francisco, sat in a coffee shop, spent an hour handwriting a short story about a medieval kingdom, and walked around the city camera in hand... Sometimes you need to let your creativity out and have it do its thing. Oh, and I captured this absolute beauty of a photograph just hours later.
 
 
 ![San Francisco, California (Baker Beach)](/images/baker-beach-north-bay.jpg)
 📍 San Francisco, California (Baker Beach)
 
-Date: Thursday, May 18, 2023
+**Date**: Thursday, May 18, 2023
 
-Description: See above 🙂
+**Description**: See above 🙂
 
 
 ![Santa Cruz, California](/images/santa-cruz-kite.jpg)
 📍 Santa Cruz, California
 
-Date: Saturday, November 12, 2022
+**Date**: Saturday, November 12, 2022
 
-Description: I am still amazed when looking at this unedited photo. This day was one of friendship and gave me my first Californian adventure outside of San Francisco.
+**Description**: I am still amazed when looking at this unedited photo. This day was one of friendship and gave me my first Californian adventure outside of San Francisco.
 
 
 ![Santa Cruz, California](/images/santa-cruz-pacific-ocean.jpg)
 📍 Santa Cruz, California
 
-Date: Saturday, November 12, 2022
+**Date**: Saturday, November 12, 2022
 
-Description: See above 🙂. Also, peep the fishermen fishing on that small boat!
+**Description**: See above 🙂. Also, peep the fishermen fishing on that small boat!
 
 
 ![Pittsburgh, Pennsylvania (Shadyside)](/images/shadyside-pittsburgh.jpg)
 📍 Pittsburgh, Pennsylvania (Shadyside)
 
-Date: Saturday, February 26, 2022
+**Date**: Saturday, February 26, 2022
 
-Description: I love street photography...
+**Description**: I love street photography...
 
 
 ![New York, New York (Times Square)](/images/times-square-amc.jpg)
 📍 New York, New York (Times Square)
 
-Date: Friday, July 9, 2021
+**Date**: Friday, July 9, 2021
 
-Description: Just wow. Another unedited masterpiece that fell right in place. I got lucky with this one. What a way to spend a Friday night in New York City.
+**Description**: Just wow. Another unedited masterpiece that fell right in place. I got lucky with this one. What a way to spend a Friday night in New York City.
 
 
 ![New York, New York (Manhattan)](/images/man-new-york.jpg)
 📍 New York, New York (Garment District)
 
-Date: Friday, July 9, 2021
+**Date**: Friday, July 9, 2021
 
-Description: A little more grim than my current taste. My photography started off as dark, so it makes sense that I was attracted to this types of scene.
+**Description**: A little more grim than my current taste. My photography started off as dark, so it makes sense that I was attracted to this types of scene.
 
 
 ![Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)](/images/railroad.jpg)
 📍Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)
 
-Date: Saturday, March 20, 2021
+**Date**: Saturday, March 20, 2021
 
-Description: After walking miles down a railroad behind my college campus, I randomly came across this graphic.
+**Description**: After walking miles down a railroad behind my college campus, I randomly came across this graphic.
