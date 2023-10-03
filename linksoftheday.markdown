@@ -3,11 +3,13 @@ layout: page
 title: Links of the Day
 permalink: /links/
 ---
+- [Order of adjectives](https://dictionary.cambridge.org/us/grammar/british-grammar/adjectives-order#google_vignette)
+    - Tuesday Oct 3, 2023
 - [How to Do Great Work by Paul Graham](http://paulgraham.com/greatwork.html)
-    - Thurs Sep 14, 2023
+    - Thursday Sep 14, 2023
 - [Freudian slip](https://en.wikipedia.org/wiki/Freudian_slip)
-    - Wed Sep 6, 2023
+    - Wednesday Sep 6, 2023
 - [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
-    - Fri Sep 1, 2023
+    - Friday Sep 1, 2023
 - [Definition of Stump Speech](https://www.thoughtco.com/stump-speech-definition-1773348)
-    - Sat Aug 26, 2023
+    - Saturday Aug 26, 2023

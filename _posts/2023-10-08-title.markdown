@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Precious moments in history not to be forgotten."
+title:  "A PRECIOUS review of history that should never be forgotten."
 date:   2023-10-08 22:00:00 -0700
 categories: jekyll update
-published: false
+published: true
 ---
 
 my background as a greek while hinting towards my grand point
