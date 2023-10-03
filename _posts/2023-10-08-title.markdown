@@ -1,8 +1,17 @@
 ---
 layout: post
-title:  "Time is your most precious commodity."
+title:  "Precious moments in history not to be forgotten."
 date:   2023-10-08 22:00:00 -0700
 categories: jekyll update
 published: false
 ---
-This blog will be released around 10PM PST on Sunday, October 8th.
+
+my background as a greek
+
+my father recounting stories about the genocide
+
+history of greek turkish relations
+
+the march
+
+aftermath
