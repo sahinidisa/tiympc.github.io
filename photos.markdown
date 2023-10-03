@@ -44,7 +44,7 @@ permalink: /photos/
 ![New York, New York (Manhattan)](/images/man-new-york.jpg)
 - 📍 New York, New York (Garment District)
 - **Date**: Fri July 9, 2021
-- **Description**: A little more grim than my current taste. However, my photography started off as dark, so it makes sense that I was attracted to this type of scene.
+- **Description**: A little more grim than my current taste. However, my photography started off as dark, so it makes sense that I was attracted to this scene.
 
 
 ![Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)](/images/railroad.jpg)
