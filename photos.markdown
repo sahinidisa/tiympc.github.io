@@ -66,4 +66,4 @@ permalink: /photos/
 
 **Date**: Sat March 20, 2021
 
-**Description**: After walking miles down a railroad behind my college campus, I randomly came across this graphic.
+**Description**: After walking miles down a railroad behind my college campus, I randomly came across this graphic. Not the most comforting message to see at sundown while miles away from campus with no way back but following a railroad! 😭
