@@ -6,6 +6,7 @@ permalink: /books/
 ### Mouth to Mouth by Antoine Wilson
 
 ![Mouth to Mouth](/images/mouth-to-mouth.jpg){:width="150" height="250"}
+
 **Genre**: Thriller, Suspense, Psychological Fiction
 
 "Sly, suspensful, and engrossing, *Mouth to Mouth* masterfully blurs the line between opportunity and exploitation, self-respect and self-delusion, fact and fiction -- exposing the myriad ways we decieve one another, and ourselves."
@@ -16,6 +17,7 @@ permalink: /books/
 ### Dinosaurs by Lydia Millet
 
 ![Dinosaurs](/images/dinosaurs.jpg){:width="150" height="250"}
+
 **Genre**: Satire, Psychological Fiction, Nature Writing
 
 "Millet explores the uncanny territory where the self ends and community begins - what one person can do in a world beset by emergencies. Dinosaurs is both sharp-edged and tender, an emotionally moving, intellectually resonant novel that asks: In the shadow of existential threat, where does hope live?"
