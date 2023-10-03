@@ -21,15 +21,15 @@
 future: true
 title: tiympc
 timezone: America/Los_Angeles
-email: asahinid@alumni.cmu.edu
+email:
 description: >- # this means to ignore newlines until "baseurl:"
  © 2023 | tiympc
-domain: "asahinidis.github.io"
+domain: "tiympc.github.io"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://asahinidis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: asahinidis
-twitter_username: alex_sahinidis
-github_username:  asahinidis
+url: "https://tiympc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username:
+twitter_username: tiympc
+github_username:  tiympc
 
 # Build settings
 theme: minima
