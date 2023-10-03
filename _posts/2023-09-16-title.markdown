@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IS adventure the best way to learn?"
+title:  "Adventure IS the best way to learn."
 date:   2023-09-16 22:00:00 -0700
 categories: jekyll update
 published: true
