@@ -26,7 +26,7 @@ permalink: /photos/
 
 **Date**: Saturday, November 12, 2022
 
-**Description**: I am still amazed when looking at this unedited photo. This day was one of friendship and gave me my first Californian adventure outside of San Francisco.
+**Description**: I am still amazed when looking at the kite in this unedited photo. This day, which was one of friendship, gave me my first Californian adventure outside of San Francisco.
 
 
 ![Santa Cruz, California](/images/santa-cruz-pacific-ocean.jpg)
@@ -34,7 +34,7 @@ permalink: /photos/
 
 **Date**: Saturday, November 12, 2022
 
-**Description**: See above 🙂. Also, peep the fishermen fishing on that small boat!
+**Description**: See above 🙂. Also, peep the fishermen fishing on that small, red boat!
 
 
 ![Pittsburgh, Pennsylvania (Shadyside)](/images/shadyside-pittsburgh.jpg)

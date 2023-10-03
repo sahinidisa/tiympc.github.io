@@ -3,6 +3,7 @@ layout: page
 title: Links of the Day
 permalink: /links/
 ---
+- [Order of adjectives](https://dictionary.cambridge.org/us/grammar/british-grammar/adjectives-order#google_vignette)
 - [How to Do Great Work by Paul Graham](http://paulgraham.com/greatwork.html)
     - Thurs Sep 14, 2023
 - [Freudian slip](https://en.wikipedia.org/wiki/Freudian_slip)
