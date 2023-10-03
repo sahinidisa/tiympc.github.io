@@ -5,7 +5,7 @@ permalink: /links/
 ---
 *"Our knowledge can only be finite, while our ignorance must necessarily be infinite."* - Karl Popper
 
-The more we learn and expand our knowledge, the more we become aware of the vastness of what we still don't know. Hopefully this page serves as a reminder that there is so much out there to learn.
+The more we learn and expand our knowledge, the more we become aware of the vastness of what we still don't know. Hopefully this page serves two purposes: 1) a reminder that there is so much out there to learn and 2) random links you can enjoy by learning more about.
 
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
     - Tuesday Oct 3, 2023
