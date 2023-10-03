@@ -24,7 +24,7 @@ permalink: /photos/
 ![Santa Cruz, California](/images/santa-cruz-kite.jpg)
 📍 Santa Cruz, California
 
-**Date**: Saturday, November 12, 2022
+**Date**: Sat November 12, 2022
 
 **Description**: I am still amazed when looking at the kite in this unedited photo. This day, which was one of friendship, gave me my first Californian adventure outside of San Francisco.
 
@@ -32,7 +32,7 @@ permalink: /photos/
 ![Santa Cruz, California](/images/santa-cruz-pacific-ocean.jpg)
 📍 Santa Cruz, California
 
-**Date**: Saturday, November 12, 2022
+**Date**: Sat November 12, 2022
 
 **Description**: See above 🙂. Also, peep the fishermen fishing on that small, red boat!
 
@@ -40,7 +40,7 @@ permalink: /photos/
 ![Pittsburgh, Pennsylvania (Shadyside)](/images/shadyside-pittsburgh.jpg)
 📍 Pittsburgh, Pennsylvania (Shadyside)
 
-**Date**: Saturday, February 26, 2022
+**Date**: Sat February 26, 2022
 
 **Description**: I love street photography...
 
@@ -48,7 +48,7 @@ permalink: /photos/
 ![New York, New York (Times Square)](/images/times-square-amc.jpg)
 📍 New York, New York (Times Square)
 
-**Date**: Friday, July 9, 2021
+**Date**: Fri July 9, 2021
 
 **Description**: Just wow. Another unedited masterpiece that fell right in place. I got lucky with this one. What a way to spend a Friday night in New York City.
 
@@ -56,7 +56,7 @@ permalink: /photos/
 ![New York, New York (Manhattan)](/images/man-new-york.jpg)
 📍 New York, New York (Garment District)
 
-**Date**: Friday, July 9, 2021
+**Date**: Fri July 9, 2021
 
 **Description**: A little more grim than my current taste. My photography started off as dark, so it makes sense that I was attracted to this types of scene.
 
@@ -64,6 +64,6 @@ permalink: /photos/
 ![Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)](/images/railroad.jpg)
 📍Pittsburgh, Pennsylvania (Pittsburgh Junction Railroad)
 
-**Date**: Saturday, March 20, 2021
+**Date**: Sat March 20, 2021
 
 **Description**: After walking miles down a railroad behind my college campus, I randomly came across this graphic.
