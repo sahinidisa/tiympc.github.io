@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A PRECIOUS review of history that should never be forgotten."
+title:  "History that should never be forgotten: the Greek genocide"
 date:   2023-10-08 22:00:00 -0700
 categories: jekyll update
 published: true

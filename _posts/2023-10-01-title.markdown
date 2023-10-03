@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My MOST important journey to date."
+title:  "October 2023 Goal and Mindset."
 date:   2023-10-01 22:00:00 -0700
 categories: jekyll update
 published: true
