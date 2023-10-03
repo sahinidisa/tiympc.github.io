@@ -10,7 +10,7 @@ permalink: /photos/
 
 **Date**: Thursday, May 18, 2023
 
-**Description**: On the day before my 23rd birthday, I drove up to San Francisco, sat in a coffee shop, spent an hour handwriting a short story about a medieval kingdom, and walked around the city camera in hand... Sometimes you need to let your creativity out and have it do its thing. Oh, and I captured this absolute beauty of a photograph just hours later.
+**Description**: On the day before my 23rd birthday, I drove up to San Francisco, sat in a coffee shop, spent an hour handwriting a short story about a medieval kingdom, walked around the city camera in hand, sat in the San Francisco Public Library scouring through international books written in languages I could not understand... Sometimes you need to let your creativity out and have it do its thing. Oh, and I captured this absolute beauty of a photograph just hours later.
 
 
 ![San Francisco, California (Baker Beach)](/images/baker-beach-north-bay.jpg)
