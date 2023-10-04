@@ -9,8 +9,16 @@ The more we learn and expand our knowledge, the more we become aware of the vast
 
 Additionally, I would like to share a draft of my book on men's formalwear and fragrances that you can find [here](https://docs.google.com/document/d/1HNobxdTDTnQTJD6i4KuU8MTcjP6wJc2v_EbRnGWsj7g/edit). I spent a considerable amount of time studying what makes a great dress shirt and how fragrances work. You'll find a plethora amount of knowledge on collars, cuffs, cufflinks, textile theory, and color theory for shirts, and much more about fragrances in here (believe it or not, but just like there's a color wheel, there's a fragrance wheel, as well!). 
 
-I figured I would share this knowledge above to whoever lands on this blog. As mentioned, this is a draft. The goal of the book is to expand beyond shirts and fragrances and ultimately discuss what it means to look like a gentleman. I have a list of topics outlined in the beginning of the document of which I will explore in the future. In the meantime, enjoy!
+I figured I would share this knowledge above to whoever lands on this blog. As mentioned, this is a draft. The goal of the book is to expand beyond shirts and fragrances and ultimately discuss what it means to look like a gentleman. I have a list of topics outlined in the beginning of the document of which I will explore in the future. 
 
+Some fun facts I think are awesome to share in case you don't want to go through a 50 page word document...
+1. A striped dress shirt will fit well in almost every workplace in the world. It conveys a sense of business, and the thinner the stripe usually the more formal the shirt. That's why the Yankees have stripes on their jerseys!
+2. Everyone knows that different colors symbolize different meanings. But, keep in mind that different audiences may perceive colors differently. For instance, while red typically symbolizes passion or power in the United States, it’s considered a color of mourning in South Africa!
+3. There is a fragrance wheel that you can apply the same schemes with as the color wheel (think: complementary, split complementary, analogous, triadic, tetradic, and monochromatic)
+4. There's a reason why most fragrance experts recommend you to wait before buying a cologone at the store. Fragrances are made up of three different notes: the top notes, the middle notes, and the base notes. The top notes are the scents that are apparent immediatelly after spraying the fragrance (it only last for around 15 mintues to 30 minutes). The point is, however, that the top notes smell differently than the middle and base notes, which will be the scent that lingers for hours on end. For example, if you're working with parfums, the base note will last for upwards to 8 hours. In other words...it's more important to consider the base notes than the top notes! Thus, the top notes create the first impression, the middle notes should be pleasant because they will influence the base notes to come, and the base notes will create the final, lasting impression. 
+
+
+## Links Of The Day
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
     - Tuesday Oct 3, 2023
 - [Order of adjectives](https://dictionary.cambridge.org/us/grammar/british-grammar/adjectives-order#google_vignette)
