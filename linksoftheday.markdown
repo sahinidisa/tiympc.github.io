@@ -9,7 +9,7 @@ The more we learn and expand our knowledge, the more we become aware of the vast
 
 Additionally, I would like to share a draft of my book on men's formalwear and fragrances that you can find [here](https://docs.google.com/document/d/1HNobxdTDTnQTJD6i4KuU8MTcjP6wJc2v_EbRnGWsj7g/edit). I spent a considerable amount of time studying what makes a great dress shirt and how fragrances work. You'll find a plethora amount of knowledge on collars, cuffs, cufflinks, textile theory, patterns, and color theory for shirts, and much more about fragrances in here. 
 
-I figured I would share this knowledge above to whoever lands on this blog. As mentioned, this is a draft. The goal of the book is to expand beyond shirts and fragrances and ultimately discuss what it means to look like a gentleman. I have a list of topics outlined in the beginning of the document of which I will explore in the future. 
+I figured I would share this knowledge above to whoever lands on this blog. As mentioned, this is a draft and I plan on publishing a final version into a full-fledged book in the next few years. The goal of the book is to expand beyond shirts and fragrances and ultimately discuss what it means to look like a gentleman. I have a list of topics outlined in the beginning of the document of which I will explore in the future. 
 
 Some fun facts I think are awesome to share in case you don't want to go through a 50 page word document...
 1. A striped dress shirt will fit well in almost every workplace in the world. It conveys a sense of business, and the thinner the stripe usually the more formal the shirt. That's why the Yankees have stripes on their jerseys!
