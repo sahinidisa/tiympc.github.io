@@ -5,6 +5,7 @@ permalink: /random/
 ---
 *"Our knowledge can only be finite, while our ignorance must necessarily be infinite."* - Karl Popper, Philosopher
 
+# Links Of The Day
 The more we learn and expand our knowledge, the more we become aware of the vastness of what we still don't know. Hopefully this page serves two purposes: 1) a reminder that there is so much out there to learn and 2) a gift of random links you can enjoy to learn more about our universe's secrets.
 
 - [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
@@ -21,7 +22,7 @@ The more we learn and expand our knowledge, the more we become aware of the vast
     - Saturday Aug 26, 2023
 
 
-## Becoming A Gentleman
+# Becoming A Gentleman
 
 I would like to share a draft of my book on men's formalwear and fragrances that you can find [here](https://docs.google.com/document/d/1HNobxdTDTnQTJD6i4KuU8MTcjP6wJc2v_EbRnGWsj7g/edit). I spent a considerable amount of time studying what makes a great dress shirt and how fragrances work. You'll find a plethora amount of knowledge on collars, cuffs, cufflinks, textile theory, patterns, and color theory for shirts, and much more about fragrances in here. 
 
