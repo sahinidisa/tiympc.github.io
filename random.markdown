@@ -35,11 +35,11 @@ Some fun facts in case you don't want to go through a 50 page word document...
 5. Everybody’s body and environment are different. Your skin might be oily or dry, you might drink a lot or little water, you might live a sedentary lifestyle, you might eat healthy food, you might take certain medications, you might live in a unique climate, you might be old or young, or the pH of your skin might be preferred for a certain fragrance. These are some of the most important factors when it comes to how your body reacts to fragrances. One fragrance on your friend might smell entirely differently on you!
 
 # Men That Have Inspired Me
-1. **My father**; for his character, kindheartedness, work ethic, and limitless faith towards Christ.
-2. **Bill Gates**; for his commitment to philanthropy
-3. **Alexander the Great**; for his ambition and charisma
-4. **Marcus Aurelius**; for his work on Stoicism
-5. **David Goggins**; for showing me that the body and mind are one
-6. **Dismas**; for proving to me the gift of repentance
-7. **Albert Einstein**; for his unmatched curiousity
-8. **Hans Zimmer**; for his music that has had a profound impact on my view of life
+1. **My father**, for his character, kindheartedness, work ethic, and limitless faith towards Christ.
+2. **Bill Gates**, for his commitment to philanthropy
+3. **Alexander the Great**, for his ambition and charisma
+4. **Marcus Aurelius**, for his work on Stoicism
+5. **David Goggins**, for showing me that the body and mind are one
+6. **Dismas**, for giving me the gift of repentance
+7. **Albert Einstein**, for his unmatched curiousity
+8. **Hans Zimmer**, for his music that has had a profound impact on my view of life
