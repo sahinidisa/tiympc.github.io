@@ -6,6 +6,6 @@ permalink: /about/
 
 I consider myself an interested man. Topics covered encompass (but are not restricted to) business, economics, philosophy, sociology, and history.
 
-My goal is to remain anonymous (to whatever extent is possible) and to document my discoveries for the purpose of an undisclosed, future project.
+This blog studies cosmology: the problem of understanding the world -- including ourselves, and our knowledge, as part of the world.
 
-Finally, I have no idea what I'm doing with this blog, so ignore the disorganization and randomness...
+My goal is to remain anonymous (to whatever extent is possible) and to document my discoveries for the purpose of an undisclosed, future project.
