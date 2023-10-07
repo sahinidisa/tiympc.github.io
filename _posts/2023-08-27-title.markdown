@@ -8,6 +8,6 @@ categories: jekyll update
 
 "*The only true wisdom is in knowing you know nothing.*" - Socrates
 
-I've been procastinating on this post: I'm unsure on what this blog is or what it will be. Bear with me as we witness the randomness of life and the ensuing knowledge that unfolds. Let's join together in a patient quest to seek the secrets of the universe we live in. I hope that you find meaning in the works ahead.
+I've been procastinating on this post: I'm unsure on what this blog is or what it will be. Bear with me as we witness the randomness of life and the ensuing knowledge that unfolds. Let's join together in a patient quest to seek the secrets of the universe we live in. I hope you find meaning in the works ahead.
 
 TIYMPC
