@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Man In Gray"
+title:  "The Man in Gray"
 date:   2023-10-10 22:00:00 -0700
 categories: jekyll update
 published: true
